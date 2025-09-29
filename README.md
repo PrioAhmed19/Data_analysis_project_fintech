@@ -7,8 +7,8 @@
 
 ## 🚀 Project Overview
 
-This repository contains analysis of **59,317 trading transactions** made by **600 users** over a **2-year period**.
-We aim to extract insights into **trader behavior, risk management, and profitability patterns** using **Python**.
+This repository contains an analysis of **59,317 trading transactions** made by **600 users** over a **2-year period**.
+The aim is to extract insights into **trader behavior and profitability patterns** using **Python**.
 
 ---
 
