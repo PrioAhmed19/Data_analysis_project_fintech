@@ -27,7 +27,7 @@ We aim to extract insights into **trader behavior, risk management, and profitab
 
 
 
-### 3️⃣ Statistical Analysis
+### Statistical Analysis
 
 * **Numerical Features:** distributions, correlations, hypothesis tests
 * **Categorical Features:** frequency analysis, chi-square tests, performance cross-tabs
